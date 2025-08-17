@@ -1,0 +1,36 @@
+XNeqWKn61IeppXOFJzTNYWwBjfEOUosZEUcXR1FT14g=
+https://gemini-ai-chat-assistant-367354886328.us-west1.run.app/
+https://promptdj-midi-367354886328.us-west1.run.app/
+https://gemini-os-367354886328.us-west1.run.app/
+https://mcp-maps-3d-367354886328.us-west1.run.app/
+https://promptdj-367354886328.us-west1.run.app/# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Log and cache files
+*.log
+.cache/
+.npm/
+
+# User-specific configuration and credentials
+.config/
+.docker/config.json
+.gemini/
+.sudo_as_admin_successful
+
+# IDE and editor specific files
+.codeoss/
+.vscode/
+
+# Go dependency cache and binaries
+gopath/pkg/
+gopath/bin/
+
+# Cloud Shell specific files
+README-cloudshell.txt
+
+https://inno-setup-script-generator-367354886328.us-west1.run.app/
